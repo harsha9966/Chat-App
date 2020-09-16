@@ -1,0 +1,11 @@
+{
+  "name": "project_chat_application-master",
+  "version": "1.0.0",
+  "description": "### [Live Site](https://realtime-chat-application.netlify.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
